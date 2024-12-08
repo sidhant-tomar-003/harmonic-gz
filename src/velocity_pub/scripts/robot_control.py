@@ -110,7 +110,7 @@ class Joy_subscriber(Node):
             Joy,
             'joy',
             self.listener_callback,
-            10)
+            26)
         self.subscription
 
     def listener_callback(self, data):
