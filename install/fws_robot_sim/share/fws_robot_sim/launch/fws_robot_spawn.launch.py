@@ -45,7 +45,7 @@ def generate_launch_description():
                     ('gz_args', [LaunchConfiguration('world'),
                                  '.sdf',
                                  ' -v 4',
-                                 ' -r']
+                                 ' -r',]
                     )
                 ]
              )
