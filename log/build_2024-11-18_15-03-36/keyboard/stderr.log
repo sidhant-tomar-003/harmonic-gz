@@ -1,0 +1,8 @@
+[31mCMake Error at /usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+  Could NOT find SDL (missing: SDL_LIBRARY SDL_INCLUDE_DIR)
+Call Stack (most recent call first):
+  /usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:600 (_FPHSA_FAILURE_MESSAGE)
+  /usr/share/cmake-3.28/Modules/FindSDL.cmake:224 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  CMakeLists.txt:27 (find_package)
+
+[0m

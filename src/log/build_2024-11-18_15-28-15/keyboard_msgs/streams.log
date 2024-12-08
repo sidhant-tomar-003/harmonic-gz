@@ -1,0 +1,233 @@
+[0.060s] Invoking command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/keyboard_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/ros2-keyboard/keyboard_msgs -DCMAKE_INSTALL_PREFIX=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs
+[0.466s] -- The C compiler identification is GNU 13.2.0
+[0.971s] -- The CXX compiler identification is GNU 13.2.0
+[1.056s] -- Detecting C compiler ABI info
+[1.307s] -- Detecting C compiler ABI info - done
+[1.327s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.327s] -- Detecting C compile features
+[1.328s] -- Detecting C compile features - done
+[1.362s] -- Detecting CXX compiler ABI info
+[1.592s] -- Detecting CXX compiler ABI info - done
+[1.606s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.606s] -- Detecting CXX compile features
+[1.607s] -- Detecting CXX compile features - done
+[1.663s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.986s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.324s] -- Found std_msgs: 5.3.5 (/opt/ros/jazzy/share/std_msgs/cmake)
+[2.519s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[2.568s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[2.638s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.712s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.825s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[2.892s] -- Found rosidl_adapter: 4.6.4 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[3.981s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[5.548s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[6.059s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[6.070s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[6.262s] -- Found PythonExtra: /usr/bin/python3  
+[6.888s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[6.967s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[7.054s] -- Added test 'copyright' to check source files copyright and LICENSE
+[7.057s] -- Added test 'lint_cmake' to check CMake code style
+[7.059s] -- Added test 'xmllint' to check XML markup files
+[7.067s] -- Configuring done (7.0s)
+[7.138s] -- Generating done (0.1s)
+[7.147s] -- Build files have been written to: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/keyboard_msgs
+[7.165s] Invoked command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/keyboard_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/ros2-keyboard/keyboard_msgs -DCMAKE_INSTALL_PREFIX=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs
+[7.165s] Invoking command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/keyboard_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/keyboard_msgs -- -j6 -l6
+[7.285s] [  2%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[7.301s] [  2%] Built target ament_cmake_python_copy_keyboard_msgs
+[7.597s] running egg_info
+[7.598s] creating keyboard_msgs.egg-info
+[7.622s] writing keyboard_msgs.egg-info/PKG-INFO
+[7.622s] writing dependency_links to keyboard_msgs.egg-info/dependency_links.txt
+[7.623s] writing top-level names to keyboard_msgs.egg-info/top_level.txt
+[7.623s] writing manifest file 'keyboard_msgs.egg-info/SOURCES.txt'
+[7.693s] reading manifest file 'keyboard_msgs.egg-info/SOURCES.txt'
+[7.694s] writing manifest file 'keyboard_msgs.egg-info/SOURCES.txt'
+[7.728s] [  2%] Built target ament_cmake_python_build_keyboard_msgs_egg
+[8.969s] [  2%] Built target keyboard_msgs__rosidl_generator_type_description
+[8.990s] [  5%] [34m[1mGenerating C code for ROS interfaces[0m
+[9.011s] [  8%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[11.114s] [ 14%] [32mBuilding C object CMakeFiles/keyboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/keyboard_msgs/msg/detail/key__description.c.o[0m
+[11.114s] [ 14%] [32mBuilding C object CMakeFiles/keyboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/keyboard_msgs/msg/detail/key__type_support.c.o[0m
+[11.114s] [ 14%] Built target keyboard_msgs__cpp
+[11.115s] [ 17%] [32mBuilding C object CMakeFiles/keyboard_msgs__rosidl_generator_c.dir/rosidl_generator_c/keyboard_msgs/msg/detail/key__functions.c.o[0m
+[11.278s] [ 20%] [32m[1mLinking C shared library libkeyboard_msgs__rosidl_generator_c.so[0m
+[11.345s] [ 20%] Built target keyboard_msgs__rosidl_generator_c
+[11.373s] [ 23%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[11.373s] [ 26%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[11.378s] [ 32%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[11.379s] [ 32%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[11.382s] [ 35%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[11.386s] [ 38%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[13.297s] [ 41%] [32mBuilding C object CMakeFiles/keyboard_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/keyboard_msgs/msg/detail/key__type_support.c.o[0m
+[13.309s] [ 44%] [32mBuilding CXX object CMakeFiles/keyboard_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/keyboard_msgs/msg/key__type_support.cpp.o[0m
+[13.315s] [ 47%] [32mBuilding CXX object CMakeFiles/keyboard_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/keyboard_msgs/msg/detail/key__type_support.cpp.o[0m
+[13.347s] [ 50%] [32mBuilding CXX object CMakeFiles/keyboard_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/keyboard_msgs/msg/key__type_support.cpp.o[0m
+[13.384s] [ 52%] [32mBuilding CXX object CMakeFiles/keyboard_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/keyboard_msgs/msg/detail/dds_fastrtps/key__type_support.cpp.o[0m
+[13.393s] [ 55%] [32mBuilding CXX object CMakeFiles/keyboard_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/keyboard_msgs/msg/detail/key__type_support_c.cpp.o[0m
+[13.423s] [ 58%] [32m[1mLinking C shared library libkeyboard_msgs__rosidl_typesupport_introspection_c.so[0m
+[13.497s] [ 61%] [32m[1mLinking CXX shared library libkeyboard_msgs__rosidl_typesupport_c.so[0m
+[13.570s] [ 61%] Built target keyboard_msgs__rosidl_typesupport_introspection_c
+[13.586s] [ 61%] Built target keyboard_msgs__rosidl_typesupport_c
+[14.012s] [ 64%] [32m[1mLinking CXX shared library libkeyboard_msgs__rosidl_typesupport_cpp.so[0m
+[14.030s] [ 67%] [32m[1mLinking CXX shared library libkeyboard_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[14.102s] [ 67%] Built target keyboard_msgs__rosidl_typesupport_cpp
+[14.157s] [ 67%] Built target keyboard_msgs__rosidl_typesupport_introspection_cpp
+[14.259s] [ 70%] [32m[1mLinking CXX shared library libkeyboard_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[14.273s] [ 73%] [32m[1mLinking CXX shared library libkeyboard_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[14.346s] [ 73%] Built target keyboard_msgs__rosidl_typesupport_fastrtps_c
+[14.354s] [ 73%] Built target keyboard_msgs__rosidl_typesupport_fastrtps_cpp
+[14.407s] [ 73%] Built target keyboard_msgs
+[14.449s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[19.638s] [ 76%] Built target keyboard_msgs__py
+[19.752s] [ 79%] [32mBuilding C object CMakeFiles/keyboard_msgs__rosidl_generator_py.dir/rosidl_generator_py/keyboard_msgs/msg/_key_s.c.o[0m
+[21.178s] [ 82%] [32m[1mLinking C shared library libkeyboard_msgs__rosidl_generator_py.so[0m
+[21.520s] [ 82%] Built target keyboard_msgs__rosidl_generator_py
+[21.675s] [ 85%] [32mBuilding C object CMakeFiles/keyboard_msgs_s__rosidl_typesupport_introspection_c.dir/rosidl_generator_py/keyboard_msgs/_keyboard_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[21.692s] [ 88%] [32mBuilding C object CMakeFiles/keyboard_msgs_s__rosidl_typesupport_fastrtps_c.dir/rosidl_generator_py/keyboard_msgs/_keyboard_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[21.706s] [ 91%] [32mBuilding C object CMakeFiles/keyboard_msgs_s__rosidl_typesupport_c.dir/rosidl_generator_py/keyboard_msgs/_keyboard_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[22.028s] [ 94%] [32m[1mLinking C shared module rosidl_generator_py/keyboard_msgs/keyboard_msgs_s__rosidl_typesupport_c.so[0m
+[22.127s] [ 97%] [32m[1mLinking C shared module rosidl_generator_py/keyboard_msgs/keyboard_msgs_s__rosidl_typesupport_introspection_c.so[0m
+[22.129s] [100%] [32m[1mLinking C shared module rosidl_generator_py/keyboard_msgs/keyboard_msgs_s__rosidl_typesupport_fastrtps_c.so[0m
+[22.298s] [100%] Built target keyboard_msgs_s__rosidl_typesupport_c
+[22.399s] [100%] Built target keyboard_msgs_s__rosidl_typesupport_introspection_c
+[22.416s] [100%] Built target keyboard_msgs_s__rosidl_typesupport_fastrtps_c
+[22.506s] Invoked command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/keyboard_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/keyboard_msgs -- -j6 -l6
+[23.002s] Invoking command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/keyboard_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/keyboard_msgs
+[23.025s] -- Install configuration: ""
+[23.025s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/ament_index/resource_index/rosidl_interfaces/keyboard_msgs
+[23.026s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/msg/Key.json
+[23.026s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs
+[23.026s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg
+[23.027s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/key.h
+[23.027s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/rosidl_generator_c__visibility_control.h
+[23.027s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail
+[23.028s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__description.c
+[23.028s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__functions.c
+[23.028s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__type_support.h
+[23.029s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__type_support.c
+[23.029s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__struct.h
+[23.029s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__functions.h
+[23.029s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/environment/library_path.sh
+[23.030s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/environment/library_path.dsv
+[23.030s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_generator_c.so
+[23.031s] -- Set non-toolchain portion of runtime path of "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_generator_c.so" to ""
+[23.031s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs
+[23.031s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg
+[23.032s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[23.032s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail
+[23.032s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__rosidl_typesupport_fastrtps_c.h
+[23.032s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_typesupport_fastrtps_c.so
+[23.033s] -- Set non-toolchain portion of runtime path of "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[23.033s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs
+[23.034s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg
+[23.034s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/key.hpp
+[23.034s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail
+[23.034s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__traits.hpp
+[23.034s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__builder.hpp
+[23.034s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__struct.hpp
+[23.035s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__type_support.hpp
+[23.036s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[23.036s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs
+[23.036s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg
+[23.036s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[23.036s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail
+[23.036s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/dds_fastrtps
+[23.037s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__rosidl_typesupport_fastrtps_cpp.hpp
+[23.037s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_typesupport_fastrtps_cpp.so
+[23.037s] -- Set non-toolchain portion of runtime path of "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[23.037s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs
+[23.037s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg
+[23.038s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[23.038s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail
+[23.038s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__type_support.c
+[23.038s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__rosidl_typesupport_introspection_c.h
+[23.038s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_typesupport_introspection_c.so
+[23.039s] -- Set non-toolchain portion of runtime path of "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_typesupport_introspection_c.so" to ""
+[23.039s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_typesupport_c.so
+[23.040s] -- Set non-toolchain portion of runtime path of "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_typesupport_c.so" to ""
+[23.040s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs
+[23.040s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg
+[23.041s] -- Up-to-date: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail
+[23.041s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__type_support.cpp
+[23.041s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/include/keyboard_msgs/keyboard_msgs/msg/detail/key__rosidl_typesupport_introspection_cpp.hpp
+[23.041s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_typesupport_introspection_cpp.so
+[23.041s] -- Set non-toolchain portion of runtime path of "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[23.042s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_typesupport_cpp.so
+[23.043s] -- Set non-toolchain portion of runtime path of "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_typesupport_cpp.so" to ""
+[23.043s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/environment/pythonpath.sh
+[23.043s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/environment/pythonpath.dsv
+[23.044s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs-1.0.0-py3.12.egg-info
+[23.044s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs-1.0.0-py3.12.egg-info/top_level.txt
+[23.044s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs-1.0.0-py3.12.egg-info/SOURCES.txt
+[23.047s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs-1.0.0-py3.12.egg-info/dependency_links.txt
+[23.047s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs-1.0.0-py3.12.egg-info/PKG-INFO
+[23.048s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs
+[23.048s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/__init__.py
+[23.048s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/_keyboard_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[23.048s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/_keyboard_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[23.049s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/keyboard_msgs_s__rosidl_typesupport_fastrtps_c.so
+[23.049s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/msg
+[23.050s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/msg/__init__.py
+[23.050s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/msg/_key.py
+[23.050s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/msg/_key_s.c
+[23.051s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/keyboard_msgs_s__rosidl_typesupport_c.so
+[23.051s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/_keyboard_msgs_s.ep.rosidl_typesupport_c.c
+[23.051s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/keyboard_msgs_s__rosidl_typesupport_introspection_c.so
+[23.134s] Listing '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs'...
+[23.134s] Compiling '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/__init__.py'...
+[23.135s] Listing '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/msg'...
+[23.135s] Compiling '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/msg/__init__.py'...
+[23.135s] Compiling '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/msg/_key.py'...
+[23.144s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/keyboard_msgs_s__rosidl_typesupport_fastrtps_c.so
+[23.146s] -- Set non-toolchain portion of runtime path of "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/keyboard_msgs_s__rosidl_typesupport_fastrtps_c.so" to ""
+[23.146s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/keyboard_msgs_s__rosidl_typesupport_introspection_c.so
+[23.146s] -- Set non-toolchain portion of runtime path of "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/keyboard_msgs_s__rosidl_typesupport_introspection_c.so" to ""
+[23.146s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/keyboard_msgs_s__rosidl_typesupport_c.so
+[23.148s] -- Set non-toolchain portion of runtime path of "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/python3.12/site-packages/keyboard_msgs/keyboard_msgs_s__rosidl_typesupport_c.so" to ""
+[23.148s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_generator_py.so
+[23.148s] -- Set non-toolchain portion of runtime path of "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/lib/libkeyboard_msgs__rosidl_generator_py.so" to ""
+[23.148s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/msg/Key.idl
+[23.148s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/msg/Key.msg
+[23.149s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/ament_index/resource_index/package_run_dependencies/keyboard_msgs
+[23.149s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/ament_index/resource_index/parent_prefix_path/keyboard_msgs
+[23.149s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/environment/ament_prefix_path.sh
+[23.149s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/environment/ament_prefix_path.dsv
+[23.150s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/environment/path.sh
+[23.150s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/environment/path.dsv
+[23.150s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/local_setup.bash
+[23.151s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/local_setup.sh
+[23.151s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/local_setup.zsh
+[23.151s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/local_setup.dsv
+[23.151s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/package.dsv
+[23.152s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/ament_index/resource_index/packages/keyboard_msgs
+[23.153s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/export_keyboard_msgs__rosidl_generator_cExport.cmake
+[23.153s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/export_keyboard_msgs__rosidl_generator_cExport-noconfig.cmake
+[23.153s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/export_keyboard_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[23.154s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/export_keyboard_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[23.154s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/export_keyboard_msgs__rosidl_generator_cppExport.cmake
+[23.155s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/export_keyboard_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[23.155s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/export_keyboard_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[23.155s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/keyboard_msgs__rosidl_typesupport_introspection_cExport.cmake
+[23.156s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/keyboard_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[23.160s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/keyboard_msgs__rosidl_typesupport_cExport.cmake
+[23.161s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/keyboard_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[23.161s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/keyboard_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[23.161s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/keyboard_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[23.162s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/keyboard_msgs__rosidl_typesupport_cppExport.cmake
+[23.162s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/keyboard_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[23.162s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/export_keyboard_msgs__rosidl_generator_pyExport.cmake
+[23.163s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/export_keyboard_msgs__rosidl_generator_pyExport-noconfig.cmake
+[23.163s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/rosidl_cmake-extras.cmake
+[23.163s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[23.163s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[23.163s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[23.163s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[23.164s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[23.164s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[23.164s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/keyboard_msgsConfig.cmake
+[23.164s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/cmake/keyboard_msgsConfig-version.cmake
+[23.167s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/install/keyboard_msgs/share/keyboard_msgs/package.xml
+[23.174s] Invoked command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/keyboard_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/keyboard_msgs

@@ -1,0 +1,132 @@
+[0.045s] Invoking command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/fws_robot_description -DCMAKE_INSTALL_PREFIX=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description
+[0.410s] -- The C compiler identification is GNU 13.2.0
+[0.917s] -- The CXX compiler identification is GNU 13.2.0
+[1.002s] -- Detecting C compiler ABI info
+[1.282s] -- Detecting C compiler ABI info - done
+[1.293s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.293s] -- Detecting C compile features
+[1.294s] -- Detecting C compile features - done
+[1.338s] -- Detecting CXX compiler ABI info
+[1.678s] -- Detecting CXX compiler ABI info - done
+[1.691s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.697s] -- Detecting CXX compile features
+[1.697s] -- Detecting CXX compile features - done
+[1.698s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.012s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.281s] -- Found xacro: 2.0.11 (/opt/ros/jazzy/share/xacro/cmake)
+[2.294s] -- Found robot_state_publisher: 3.3.3 (/opt/ros/jazzy/share/robot_state_publisher/cmake)
+[2.479s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[2.524s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[2.589s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.677s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.042s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[3.055s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[3.369s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[3.403s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[3.448s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.319s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[4.508s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.532s] -- Added test 'lint_cmake' to check CMake code style
+[4.546s] -- Added test 'xmllint' to check XML markup files
+[4.552s] -- Configuring done (4.5s)
+[4.570s] -- Generating done (0.0s)
+[4.573s] -- Build files have been written to: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_description
+[4.588s] Invoked command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/fws_robot_description -DCMAKE_INSTALL_PREFIX=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description
+[4.590s] Invoking command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_description -- -j4 -l4
+[4.678s] Invoked command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_description -- -j4 -l4
+[4.735s] Invoking command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_description
+[4.748s] -- Install configuration: ""
+[4.748s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots
+[4.749s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts
+[4.749s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/base
+[4.749s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/base/base.gazebo.xacro
+[4.749s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/base/base.urdf.xacro
+[4.751s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/lidar_head
+[4.751s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/lidar_head/lidar_head.gazebo.xacro
+[4.752s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/lidar_head/lidar_head.urdf.xacro
+[4.754s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/lidar_base
+[4.754s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/lidar_base/lidar_base.urdf.xacro
+[4.755s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/lidar_base/lidar_base.gazebo.xacro
+[4.756s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/wheel
+[4.760s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/wheel/wheel.gazebo.xacro
+[4.760s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/wheel/wheel.urdf.xacro
+[4.760s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/suspension
+[4.760s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/suspension/suspension.urdf.xacro
+[4.771s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/parts/suspension/suspension.gazebo.xacro
+[4.771s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/robots/fws_robot.urdf.xacro
+[4.773s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/gazebo
+[4.773s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/gazebo/fws_robot.gazebo.xacro
+[4.773s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/ros2_control
+[4.776s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/ros2_control/fws_robot.ros2_control.xacro
+[4.776s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/config
+[4.776s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/config/fws_robot_config.rviz
+[4.778s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/config/fws_robot_sim.yaml
+[4.779s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes
+[4.779s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE
+[4.779s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/base
+[4.779s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/base/base_linkOLD.dae
+[4.829s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/base/base_link.dae
+[4.896s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/lidar_head
+[4.896s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/lidar_head/YDlidar_head.dae
+[4.898s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/lidar_base
+[4.898s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/lidar_base/YDlidar_base.dae
+[4.903s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/wheel
+[4.903s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/wheel/wheel_link.dae
+[4.912s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/suspension
+[4.914s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/suspension/fl_link.dae
+[4.925s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/suspension/rl_link.dae
+[4.941s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/suspension/rr_link.dae
+[4.952s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/suspension/fr_link.dae
+[4.978s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors
+[4.979s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/front_lrf
+[4.979s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/front_lrf/lrf_texture.png
+[4.979s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/front_lrf/front_lrf.dae
+[5.068s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/rear_lrf
+[5.068s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/rear_lrf/rear_lrf.dae
+[5.080s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/rear_lrf/urg_texture.png
+[5.082s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/camera
+[5.082s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/camera/camera.dae
+[5.084s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/gim30
+[5.085s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/gim30/gim30.dae
+[5.214s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/gim30/gim30_lrf_texture.png
+[5.216s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/gps
+[5.217s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/gps/gps_texture.png
+[5.218s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/DAE/sensors/gps/gps.dae
+[5.252s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL
+[5.252s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/base
+[5.252s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/base/base_link.stl
+[5.253s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/base/base_link_old.stl
+[5.260s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/lidar_head
+[5.260s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/lidar_head/YDlidar_head.stl
+[5.262s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/lidar_base
+[5.262s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/lidar_base/YDlidar_base.stl
+[5.267s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/wheel
+[5.267s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/wheel/robot_wheel.stl
+[5.278s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/suspension
+[5.280s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/suspension/sus_link.stl
+[5.281s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/sensors
+[5.281s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/sensors/front_lrf
+[5.281s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/sensors/front_lrf/front_lrf.stl
+[5.319s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/sensors/rear_lrf
+[5.319s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/sensors/rear_lrf/rear_lrf.stl
+[5.320s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/sensors/camera
+[5.320s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/sensors/gim30
+[5.320s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/sensors/gim30/gim30.stl
+[5.357s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/sensors/gps
+[5.357s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/meshes/STL/sensors/gps/gps.stl
+[5.367s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/ament_index/resource_index/package_run_dependencies/fws_robot_description
+[5.368s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/ament_index/resource_index/parent_prefix_path/fws_robot_description
+[5.368s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/environment/ament_prefix_path.sh
+[5.369s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/environment/ament_prefix_path.dsv
+[5.376s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/environment/path.sh
+[5.378s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/environment/path.dsv
+[5.378s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/local_setup.bash
+[5.378s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/local_setup.sh
+[5.379s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/local_setup.zsh
+[5.379s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/local_setup.dsv
+[5.379s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/package.dsv
+[5.379s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/ament_index/resource_index/packages/fws_robot_description
+[5.381s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/cmake/fws_robot_descriptionConfig.cmake
+[5.381s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/cmake/fws_robot_descriptionConfig-version.cmake
+[5.381s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_description/share/fws_robot_description/package.xml
+[5.392s] Invoked command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_description

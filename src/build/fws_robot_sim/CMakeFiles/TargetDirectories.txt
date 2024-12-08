@@ -1,0 +1,9 @@
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/fws_robot_sim/CMakeFiles/uninstall.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/fws_robot_sim/CMakeFiles/fws_robot_sim_uninstall.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/fws_robot_sim/CMakeFiles/test.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/fws_robot_sim/CMakeFiles/edit_cache.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/fws_robot_sim/CMakeFiles/rebuild_cache.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/fws_robot_sim/CMakeFiles/list_install_components.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/fws_robot_sim/CMakeFiles/install.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/fws_robot_sim/CMakeFiles/install/local.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/fws_robot_sim/CMakeFiles/install/strip.dir

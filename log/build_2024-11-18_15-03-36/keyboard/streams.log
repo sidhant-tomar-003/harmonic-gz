@@ -1,0 +1,39 @@
+[0.040s] Invoking command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard': AMENT_PREFIX_PATH=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/keyboard_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/keyboard_msgs:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/keyboard_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/keyboard_msgs/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/ros2-keyboard/keyboard -DCMAKE_INSTALL_PREFIX=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/keyboard
+[0.197s] -- The C compiler identification is GNU 13.2.0
+[0.311s] -- The CXX compiler identification is GNU 13.2.0
+[0.341s] -- Detecting C compiler ABI info
+[0.536s] -- Detecting C compiler ABI info - done
+[0.548s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.549s] -- Detecting C compile features
+[0.549s] -- Detecting C compile features - done
+[0.566s] -- Detecting CXX compiler ABI info
+[0.767s] -- Detecting CXX compiler ABI info - done
+[0.779s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.780s] -- Detecting CXX compile features
+[0.780s] -- Detecting CXX compile features - done
+[0.813s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.059s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.317s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[1.446s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.477s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.523s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.558s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.700s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.707s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.886s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.923s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.959s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.081s] -- Found std_msgs: 5.3.5 (/opt/ros/jazzy/share/std_msgs/cmake)
+[2.124s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.297s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.299s] -- Found Threads: TRUE  
+[2.300s] [31mCMake Error at /usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+[2.301s]   Could NOT find SDL (missing: SDL_LIBRARY SDL_INCLUDE_DIR)
+[2.301s] Call Stack (most recent call first):
+[2.301s]   /usr/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake:600 (_FPHSA_FAILURE_MESSAGE)
+[2.301s]   /usr/share/cmake-3.28/Modules/FindSDL.cmake:224 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+[2.301s]   CMakeLists.txt:27 (find_package)
+[2.302s] 
+[2.302s] [0m
+[2.302s] -- Configuring incomplete, errors occurred!
+[2.315s] Invoked command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard' returned '1': AMENT_PREFIX_PATH=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/keyboard_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/keyboard_msgs:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/keyboard_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/keyboard_msgs/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/ros2-keyboard/keyboard -DCMAKE_INSTALL_PREFIX=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/keyboard

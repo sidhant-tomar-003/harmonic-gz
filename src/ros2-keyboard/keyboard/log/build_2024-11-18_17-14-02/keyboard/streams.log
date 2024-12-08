@@ -1,0 +1,49 @@
+[0.063s] Invoking command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/ros2-keyboard/keyboard/build/keyboard': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/ros2-keyboard/keyboard -DCMAKE_INSTALL_PREFIX=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/ros2-keyboard/keyboard/install/keyboard
+[0.284s] -- The C compiler identification is GNU 13.2.0
+[0.563s] -- The CXX compiler identification is GNU 13.2.0
+[0.682s] -- Detecting C compiler ABI info
+[0.979s] -- Detecting C compiler ABI info - done
+[0.998s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.002s] -- Detecting C compile features
+[1.003s] -- Detecting C compile features - done
+[1.113s] -- Detecting CXX compiler ABI info
+[1.543s] -- Detecting CXX compiler ABI info - done
+[1.569s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.570s] -- Detecting CXX compile features
+[1.570s] -- Detecting CXX compile features - done
+[1.579s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.942s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.267s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[2.390s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[2.426s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[2.465s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.504s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.715s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[2.715s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[2.977s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[3.057s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[3.109s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.290s] -- Found std_msgs: 5.3.5 (/opt/ros/jazzy/share/std_msgs/cmake)
+[3.359s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.645s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.647s] -- Found Threads: TRUE  
+[3.652s] -- Found SDL: /usr/lib/x86_64-linux-gnu/libSDLmain.a;/usr/lib/x86_64-linux-gnu/libSDL.so (found version "1.2.68") 
+[3.668s] [31mCMake Error at CMakeLists.txt:28 (find_package):
+[3.669s]   By not providing "Findkeyboard_msgs.cmake" in CMAKE_MODULE_PATH this
+[3.669s]   project has asked CMake to find a package configuration file provided by
+[3.669s]   "keyboard_msgs", but CMake did not find one.
+[3.669s] 
+[3.669s]   Could not find a package configuration file provided by "keyboard_msgs"
+[3.669s]   with any of the following names:
+[3.669s] 
+[3.669s]     keyboard_msgsConfig.cmake
+[3.669s]     keyboard_msgs-config.cmake
+[3.670s] 
+[3.670s]   Add the installation prefix of "keyboard_msgs" to CMAKE_PREFIX_PATH or set
+[3.670s]   "keyboard_msgs_DIR" to a directory containing one of the above files.  If
+[3.670s]   "keyboard_msgs" provides a separate development package or SDK, be sure it
+[3.670s]   has been installed.
+[3.672s] 
+[3.672s] [0m
+[3.672s] -- Configuring incomplete, errors occurred!
+[3.686s] Invoked command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/ros2-keyboard/keyboard/build/keyboard' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/ros2-keyboard/keyboard -DCMAKE_INSTALL_PREFIX=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/ros2-keyboard/keyboard/install/keyboard

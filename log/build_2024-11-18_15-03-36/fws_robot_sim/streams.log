@@ -1,0 +1,51 @@
+[0.036s] Invoking command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/fws_robot_sim -DCMAKE_INSTALL_PREFIX=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim
+[0.399s] -- The C compiler identification is GNU 13.2.0
+[0.912s] -- The CXX compiler identification is GNU 13.2.0
+[0.995s] -- Detecting C compiler ABI info
+[1.281s] -- Detecting C compiler ABI info - done
+[1.294s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.295s] -- Detecting C compile features
+[1.296s] -- Detecting C compile features - done
+[1.339s] -- Detecting CXX compiler ABI info
+[1.661s] -- Detecting CXX compiler ABI info - done
+[1.678s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.678s] -- Detecting CXX compile features
+[1.680s] -- Detecting CXX compile features - done
+[1.685s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.982s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.270s] -- Found xacro: 2.0.11 (/opt/ros/jazzy/share/xacro/cmake)
+[2.290s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[2.659s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.661s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.661s] -- Configured 'flake8' exclude dirs and/or files: 
+[2.665s] -- Added test 'lint_cmake' to check CMake code style
+[2.668s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.673s] -- Added test 'xmllint' to check XML markup files
+[2.686s] -- Configuring done (2.6s)
+[2.698s] -- Generating done (0.0s)
+[2.698s] -- Build files have been written to: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_sim
+[2.728s] Invoked command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/fws_robot_sim -DCMAKE_INSTALL_PREFIX=/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim
+[2.735s] Invoking command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_sim -- -j4 -l4
+[2.863s] Invoked command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_sim -- -j4 -l4
+[2.977s] Invoking command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_sim
+[2.994s] -- Install configuration: ""
+[2.994s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/launch
+[3.008s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/launch/fws_robot_spawn.launch.py
+[3.009s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/worlds
+[3.010s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/worlds/fws_robot_world.sdf
+[3.022s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/ament_index/resource_index/package_run_dependencies/fws_robot_sim
+[3.022s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/ament_index/resource_index/parent_prefix_path/fws_robot_sim
+[3.023s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/environment/ament_prefix_path.sh
+[3.023s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/environment/ament_prefix_path.dsv
+[3.024s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/environment/path.sh
+[3.025s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/environment/path.dsv
+[3.025s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/local_setup.bash
+[3.026s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/local_setup.sh
+[3.026s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/local_setup.zsh
+[3.026s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/local_setup.dsv
+[3.026s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/package.dsv
+[3.026s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/ament_index/resource_index/packages/fws_robot_sim
+[3.026s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/cmake/fws_robot_simConfig.cmake
+[3.026s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/cmake/fws_robot_simConfig-version.cmake
+[3.026s] -- Installing: /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/install/fws_robot_sim/share/fws_robot_sim/package.xml
+[3.029s] Invoked command in '/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/fws_robot_sim

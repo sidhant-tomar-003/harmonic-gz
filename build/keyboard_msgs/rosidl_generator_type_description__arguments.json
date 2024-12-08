@@ -1,0 +1,11 @@
+{
+  "package_name": "keyboard_msgs",
+  "output_dir": "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard_msgs/rosidl_generator_type_description/keyboard_msgs",
+  "idl_tuples": [
+    "/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard_msgs/rosidl_adapter/keyboard_msgs:msg/Key.idl"
+  ],
+  "include_paths": [
+    "std_msgs:/opt/ros/jazzy/share/std_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces"
+  ]
+}

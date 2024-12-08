@@ -1,0 +1,10 @@
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard/CMakeFiles/uninstall.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard/CMakeFiles/keyboard_uninstall.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard/CMakeFiles/keyboard.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard/CMakeFiles/test.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard/CMakeFiles/edit_cache.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard/CMakeFiles/rebuild_cache.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard/CMakeFiles/list_install_components.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard/CMakeFiles/install.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard/CMakeFiles/install/local.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/build/keyboard/CMakeFiles/install/strip.dir

@@ -1,0 +1,9 @@
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/velocity_pub/CMakeFiles/uninstall.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/velocity_pub/CMakeFiles/velocity_pub_uninstall.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/velocity_pub/CMakeFiles/test.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/velocity_pub/CMakeFiles/edit_cache.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/velocity_pub/CMakeFiles/rebuild_cache.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/velocity_pub/CMakeFiles/list_install_components.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/velocity_pub/CMakeFiles/install.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/velocity_pub/CMakeFiles/install/local.dir
+/home/admin/Documents/projects/u-tour/pathing/remote-repos/learning/fws_robot_harmonic/src/build/velocity_pub/CMakeFiles/install/strip.dir
