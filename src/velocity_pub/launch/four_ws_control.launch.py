@@ -9,6 +9,14 @@ def generate_launch_description():
             'use_sim_time',
             default_value='false',
             description='Use simulation (Gazebo) clock if true'),
-        Node(package = "joy",executable = "joy_node"),
+        Node(package = "joy",executable = "joy_node",
+        # arguments=[ '-device_id', '/dev/input/event26' ], 
+        # parameters=[{
+        #         'device_id': '/dev/input/event26',  # Joystick device, modify this as needed
+        #     }]
+        remappings=[
+                ('joy', '/dev/input/event26')  # Replace with the actual topic name
+            ]
+            ),
         Node(package='velocity_pub', executable='robot_control.py', output='screen'),
     ])
