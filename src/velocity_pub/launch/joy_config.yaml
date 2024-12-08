@@ -1,0 +1,6 @@
+joy_node:
+  ros__parameters:
+    dev: "/dev/input/event26"
+    deadzone: 0.05
+    autorepeat_rate: 20.0
+    coalesce_interval: 0.001
